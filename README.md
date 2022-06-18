@@ -3,6 +3,8 @@
 
 ![alt text](https://i.imgur.com/ej0i4gs.png)
 
+Jogo criado com a ferramenta Scratch. Parte da formação Alura Full Stack.
+
 ### Objetivo
 Desviar das naves inimigas
 
